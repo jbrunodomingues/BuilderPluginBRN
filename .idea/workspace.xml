@@ -6,7 +6,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/HelloWorld.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382874677859" ignored="false" />
     <file path="/BuilderGeneratorClass.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382875186544" ignored="false" />
-    <file path="/Batatas.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382908352620" ignored="false" />
+    <file path="/Batatas.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382915312623" ignored="false" />
     <file path="/fragment.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382906810795" ignored="false" />
     <file path="/BuilderGenerator.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382884694799" ignored="false" />
     <file path="/GenerateDialog.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382883220446" ignored="false" />
@@ -14,6 +14,8 @@
     <file path="/plugin.xml" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382886842024" ignored="false" />
     <file path="$PROJECT_DIR$/src/GenerateAction.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382885372270" ignored="false" />
     <file path="/Dummy.txt" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382913354471" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382915047933" ignored="false" />
+    <file path="/Testing.java" changelist="2762d131-920a-48bd-a8b0-e1ecf2a8525d" time="1382915502940" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,37 +75,7 @@
     <favorites_list name="BuilderPluginBRN" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="plugin.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="62" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenerateAction.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/brn/GenerateAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="5" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.35789475">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenerateDialog.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/brn/GenerateDialog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="0" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -130,6 +102,8 @@
         <option value="$PROJECT_DIR$/src/com/example/GenerateAction.java" />
         <option value="$PROJECT_DIR$/src/com/example/Batatas.java" />
         <option value="$PROJECT_DIR$/src/com/brn/GenerateAction.java" />
+        <option value="$PROJECT_DIR$/src/com/brn/Batatas.java" />
+        <option value="$PROJECT_DIR$/src/com/brn/Testing.java" />
       </list>
     </option>
   </component>
@@ -145,7 +119,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -457,11 +431,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/psi/PsiClass.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -472,9 +441,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/brn/GenerateAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="46" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -488,9 +455,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/brn/GenerateAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="22" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -519,13 +484,6 @@
         <state line="36" column="33" selection-start="2299" selection-end="2299" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="62" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/openapi.jar!/com/intellij/psi/PsiClass.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="17" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" />
@@ -536,19 +494,24 @@
         <state line="88" column="33" selection-start="7843" selection-end="7843" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/brn/GenerateDialog.java">
+    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0">
+        <state line="37" column="62" selection-start="1346" selection-end="1346" vertical-scroll-proportion="1.6552632">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/brn/GenerateAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="5" selection-start="1161" selection-end="1161" vertical-scroll-proportion="0.35789475">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="9" column="26" selection-start="391" selection-end="391" vertical-scroll-proportion="0.40263158">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/brn/GenerateDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.653944">
+          <folding />
         </state>
       </provider>
     </entry>
