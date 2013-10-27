@@ -1,7 +1,6 @@
-package com.example;
+package com.brn;
 
 import com.intellij.ide.util.DefaultPsiElementCellRenderer;
-import com.intellij.openapi.project.Project;
 import com.intellij.openapi.ui.DialogWrapper;
 import com.intellij.openapi.ui.LabeledComponent;
 import com.intellij.psi.PsiClass;
@@ -11,7 +10,6 @@ import com.intellij.ui.ToolbarDecorator;
 import org.jetbrains.annotations.Nullable;
 
 import javax.swing.*;
-import java.util.Collection;
 
 /**
  * Created by IntelliJ IDEA.

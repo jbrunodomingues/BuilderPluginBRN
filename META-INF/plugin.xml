@@ -33,7 +33,7 @@
   </project-components>
 
   <actions>
-      <action id="com.example.GenerateAction" class="com.example.GenerateAction" text="Builder BRN"
+      <action id="com.brn.GenerateAction" class="com.brn.GenerateAction" text="Builder BRN"
               description="Builder BRN">
           <add-to-group group-id="GenerateGroup" anchor="last"/>
       </action>
